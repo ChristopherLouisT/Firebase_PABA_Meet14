@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496810953830",
+    "project_id": "coba-firebase01",
+    "storage_bucket": "coba-firebase01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496810953830:android:620fa86b76a825e95fb1a7",
+        "android_client_info": {
+          "package_name": "paba.meet14.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAUa83UgZEmJvzjwZli0ooW94yGS848c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
